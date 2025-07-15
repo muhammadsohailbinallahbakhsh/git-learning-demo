@@ -1,0 +1,3 @@
+Initial content of this file
+
+Something after add test.txt
