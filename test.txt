@@ -1,3 +1,6 @@
 Initial content of this file
 
 Something after add test.txt
+
+
+this is the change made in detached head state
