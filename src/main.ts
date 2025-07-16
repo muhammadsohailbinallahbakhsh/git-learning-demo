@@ -37,6 +37,8 @@ class UserManager {
     }
     return false;
   }
+
+  getTotalUsersCount = (): number => this.users.length;
 }
 
 // Usage example
@@ -45,3 +47,6 @@ userManager.addUser('John Doe', 'john@example.com');
 userManager.addUser('Jane Smith', 'jane@example.com');
 
 console.log('All active users:', userManager.getAllUsers());
+console.log(`Total active users count : ${userManager.getTotalUsersCount()}`);
+
+userManager.getTotalUsersCount();
