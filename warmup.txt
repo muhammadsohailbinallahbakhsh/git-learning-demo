@@ -5,8 +5,12 @@ Purpose of this file
 From dev-sohailprimary
 
 
-Hmmm! sounds good.
+Hmmm! Sounds good.
 
 From Main
 
-Ah! you just found it good why did'nt you add some features in it
+Ah! You just found it good, why didn't you add some features to it
+
+From dev/sohail-primary
+
+Well, for sure, add new features to it, once we're done exploring both Git and GitHub
